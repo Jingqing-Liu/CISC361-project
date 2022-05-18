@@ -1,0 +1,231 @@
+At time:  3
+Current Available Main Memory = 150
+Current Devices = 12
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+  2         10             0
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+  1         1             9
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+At time:  4
+Current Available Main Memory = 150
+Current Devices = 12
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+  2         10             0
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+  1         2             8
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+At time:  7
+Current Available Main Memory = 150
+Current Devices = 7
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+  2         10             0
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+  1         5             5
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+At time:  8
+Current Available Main Memory = 150
+Current Devices = 7
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+  2         10             0
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+  1         6             4
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+At time:  9999
+Current Available Main Memory = 150
+Current Devices = 12
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+1           2               16              14
+2           3               22              19
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+At time:  9999
+Current Available Main Memory = 150
+Current Devices = 12
+Completed Jobs:
+--------------------------------------------------------
+Job ID    Arrival Time    Finish Time    Turnaround Time
+========================================================
+1           2               16              14
+2           3               22              19
+1           2               16              14
+2           3               22              19
+
+Hold Queue 1:
+-------------------------
+Job ID    Run Time
+=========================
+
+Hold Queue 2:
+-------------------------
+Job ID    Run Time
+=========================
+
+Ready Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+Process running on CPU:
+-----------------------------------
+Job ID    Time Accrued    Time Left
+===================================
+
+Wait Queue:
+----------------------------------
+Job ID    Run Time    Time Accrued
+==================================
+
+
+**********************************************************
+
+System Turnaround Time: 16.5
